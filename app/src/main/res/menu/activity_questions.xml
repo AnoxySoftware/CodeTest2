@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Lefteris Haritou
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:codeTest="http://schemas.android.com/apk/res-auto" >
+
+    <!-- Adds an item to the list. -->
+    <item android:id="@+id/action_previous"
+        android:title="@string/action_previous"
+        codeTest:showAsAction="always" />
+
+</menu>

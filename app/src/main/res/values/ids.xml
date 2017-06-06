@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Lefteris Haritou
+  -->
+
+<resources>
+    <item type="id" name="action_next" />
+    <item type="id" name="action_flip" />
+</resources>
